@@ -17,10 +17,10 @@ Skills addressing common LLM coding failure modes.
 
 ```bash
 # Add this repo as a marketplace
-/plugin marketplace add your-username/claude-skills
+/plugin marketplace add dmallory42/claude-skills
 
 # Install the plugin
-/plugin install llm-coding-discipline@your-username-claude-skills
+/plugin install llm-coding-discipline@dmallory42-claude-skills
 ```
 
 ### Manual (All Projects)
