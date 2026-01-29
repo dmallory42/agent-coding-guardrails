@@ -1,6 +1,6 @@
 ---
 name: success-criteria-driven
-description: Shifts implementation from imperative instructions to declarative goals with observable success criteria, enabling autonomous iteration until success. REQUIRED before starting any implementation. Triggers include: receiving vague instructions like "fix the bug" or "make it work", starting work without knowing how to verify completion, or implementing without test cases or observable outcomes defined.
+description: Shifts from imperative instructions to declarative goals with observable success criteria, enabling autonomous iteration until success. Triggers include: receiving vague instructions like "fix the bug" or "make it work", starting work without knowing how to verify completion, or implementing without test cases defined. NOTE: Prefer using 'coding-guardrails' skill which combines all four guardrails in one checklist.
 ---
 
 # Success Criteria Driven

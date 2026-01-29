@@ -1,6 +1,6 @@
 ---
 name: surfacing-assumptions
-description: Forces explicit assumption checking before writing code, preventing silent assumptions that lead to wrong implementations. REQUIRED before any implementation. Triggers include: starting to code without clarifying questions, thinking "they probably want...", choosing between approaches without asking, or guessing at edge case behavior.
+description: Forces explicit assumption checking before writing code, preventing silent assumptions that lead to wrong implementations. Triggers include: starting to code without clarifying questions, thinking "they probably want...", choosing between approaches without asking, or guessing at edge case behavior. NOTE: Prefer using 'coding-guardrails' skill which combines all four guardrails in one checklist.
 ---
 
 # Surfacing Assumptions

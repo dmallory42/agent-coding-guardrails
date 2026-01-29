@@ -1,9 +1,9 @@
 ---
-name: before-implementation
-description: Single entry-point that enforces all four coding guardrails (assumptions, scope, simplicity, success criteria) through one checklist. REQUIRED before writing any implementation code. Use this instead of invoking individual guardrail skills separately. Triggers on any implementation task - adding features, fixing bugs, refactoring, or modifying existing code.
+name: coding-guardrails
+description: Use when user asks to add, create, build, fix, modify, update, refactor, or write code. Use when making plans for code changes. Use before ANY coding task. Single entry-point enforcing four guardrails (assumptions, scope, simplicity, success criteria) through one checklist.
 ---
 
-# Before Implementation
+# Coding Guardrails
 
 **This skill loads all guardrails in one place.** Run through this checklist before writing any code.
 

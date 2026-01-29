@@ -1,6 +1,6 @@
 ---
 name: scope-discipline
-description: Enforces strict boundaries when modifying existing code, preventing drive-by improvements and unintended changes. REQUIRED when editing any existing file. Triggers include: deleting comments you didn't write, renaming variables outside your changes, removing code that "looks unused", cleaning up formatting in untouched sections, or refactoring "while you're in here".
+description: Enforces strict boundaries when modifying existing code, preventing drive-by improvements and unintended changes. Triggers include: deleting comments you didn't write, renaming variables outside your changes, removing code that "looks unused", cleaning up formatting in untouched sections, or refactoring "while you're in here". NOTE: Prefer using 'coding-guardrails' skill which combines all four guardrails in one checklist.
 ---
 
 # Scope Discipline
