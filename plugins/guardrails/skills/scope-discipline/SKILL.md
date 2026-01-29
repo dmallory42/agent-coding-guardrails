@@ -1,6 +1,6 @@
 ---
 name: scope-discipline
-description: Use when modifying existing code - prevents changing code outside the task scope, removing comments you don't understand, or making drive-by improvements.
+description: Enforces strict boundaries when modifying existing code, preventing drive-by improvements and unintended changes. REQUIRED when editing any existing file. Triggers include: deleting comments you didn't write, renaming variables outside your changes, removing code that "looks unused", cleaning up formatting in untouched sections, or refactoring "while you're in here".
 ---
 
 # Scope Discipline

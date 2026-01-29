@@ -1,6 +1,6 @@
 ---
 name: surfacing-assumptions
-description: Use when about to implement anything - forces explicit assumption checking before writing code. Prevents silent assumptions that lead to wrong implementations.
+description: Forces explicit assumption checking before writing code, preventing silent assumptions that lead to wrong implementations. REQUIRED before any implementation. Triggers include: starting to code without clarifying questions, thinking "they probably want...", choosing between approaches without asking, or guessing at edge case behavior.
 ---
 
 # Surfacing Assumptions

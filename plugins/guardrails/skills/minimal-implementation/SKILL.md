@@ -1,6 +1,6 @@
 ---
 name: minimal-implementation
-description: Use when implementing any feature or fix - prevents over-engineering, bloated abstractions, and unnecessary complexity.
+description: Enforces minimal, focused implementations by checking for over-engineering patterns. REQUIRED before and after writing any code. Triggers include: creating abstractions for single use, adding configuration "for flexibility", writing helpers used once, thinking "this might be useful later", or using design patterns because they're "proper".
 ---
 
 # Minimal Implementation

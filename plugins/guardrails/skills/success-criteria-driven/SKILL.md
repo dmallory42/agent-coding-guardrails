@@ -1,6 +1,6 @@
 ---
 name: success-criteria-driven
-description: Use when starting any implementation task - shifts from imperative instructions to declarative goals with clear success criteria, enabling autonomous iteration until success.
+description: Shifts implementation from imperative instructions to declarative goals with observable success criteria, enabling autonomous iteration until success. REQUIRED before starting any implementation. Triggers include: receiving vague instructions like "fix the bug" or "make it work", starting work without knowing how to verify completion, or implementing without test cases or observable outcomes defined.
 ---
 
 # Success Criteria Driven
