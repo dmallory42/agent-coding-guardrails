@@ -33,6 +33,11 @@ Enforces four gates before any coding task:
 | **Scope** | "I'll only touch ___" | Drive-by changes, scope creep |
 | **Simplicity** | "Simplest approach is ___" | Over-engineering, bloat |
 
+**Example prompts that trigger this skill:**
+- "Add a delete button to the settings page"
+- "Fix the login timeout bug"
+- "Refactor the user service to use async/await"
+
 ## License
 
 MIT
